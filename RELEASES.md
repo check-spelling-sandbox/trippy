@@ -1126,7 +1126,7 @@ The following screenshot shows ICMP extensions in hop detail mode:
 
 #### ICMP Extensions in Reports
 
-ICMP extension information is also included the the `json` and `stream` report modes.
+ICMP extension information is also included the `json` and `stream` report modes.
 
 Sample output for a single hop from the `json` report:
 
