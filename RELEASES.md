@@ -322,7 +322,7 @@ The previous release of Trippy introduced a bug ([#1290](https://github.com/fuji
 caused reverse DNS lookups to be enqueued multiple times when the `dns-ttl` expired, potentially leading to the hostname
 being displayed as `Timeout: xxx` for a brief period.
 
-A long standing bug ([#1398](https://github.com/fujiapple852/trippy/issues/1398)) which caused the TUI sample history
+A long-standing bug ([#1398](https://github.com/fujiapple852/trippy/issues/1398)) which caused the TUI sample history
 and frequency charts to ignore sub-millisecond samples has been fixed.
 
 This release fixes a bug ([#1287](https://github.com/fujiapple852/trippy/issues/1287)) that caused the tracer to panic
