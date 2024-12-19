@@ -1059,7 +1059,7 @@ There are no specific recommended settings for Trippy, it provides a variety of 
 to perform different types of analysis. The choice of settings will depend on the analysis you wish to perform and the
 environment in which you are working.
 
-The following lists some common options along with some some basic guidance on when they might be appropriate.
+The following lists some common options along with some basic guidance on when they might be appropriate.
 
 > [!NOTE]
 > The Windows `tracert` tool uses ICMP by default, whereas most Unix `traceroute` tools use UDP by default.
