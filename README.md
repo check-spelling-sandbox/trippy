@@ -596,7 +596,7 @@ Options:
           Trace using the ICMP protocol
 
   -F, --addr-family <ADDR_FAMILY>
-          The address family [default: Ipv4thenIpv6]
+          The address family [default: ipv4-then-ipv6]
 
           Possible values:
           - ipv4:           IPv4 only
