@@ -20,7 +20,7 @@ assignees: ''
 <!-- If applicable, add screenshots to help explain your problem. -->
 
 **Environment Info**
-- OS: <!-- e.g. Linux, Windows 11, MacOS -->
+- OS: <!-- e.g. Linux, Windows 11, macOS -->
 - Trippy version: <!-- the output of `trip -V` -->
 - Installation method: <!-- e.g. `brew`, `winget`, `cargo` -->
 - Terminal / Console: <!-- If you are not sure you can use "About" or, "Help" on the terminal window to gather the requested information. e.g. `iTerm2`, `cmd.exe`, `PowerShell`, 'GNOME Terminal' -->
