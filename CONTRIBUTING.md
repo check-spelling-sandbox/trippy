@@ -43,7 +43,7 @@ maintainers:
 Trippy is tested extensively in CI on Linux, Windows and macOS for every pull request. However, it is recommended to
 test the release binaries on all platforms before release.
 
-### Github Releases
+### GitHub Releases
 
 - Tag the release with the version number `0.xx.0` and push the tag to GitHub:
 
