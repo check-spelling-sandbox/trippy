@@ -1050,8 +1050,7 @@ Disable-NetFirewallRule ICMPv4_TRIPPY_ALLOW
 Disable-NetFirewallRule ICMPv6_TRIPPY_ALLOW
 ```
 
-The Windows Defender firewall rule may also be configured manually,
-see [here](https://github.com/fujiapple852/trippy/issues/578#issuecomment-1565149826) for a step-by-step guide.
+There is a [step-by-step guide to manually configure the Windows Defender firewall rule](https://github.com/fujiapple852/trippy/issues/578#issuecomment-1565149826).
 
 ### What are the recommended settings for Trippy?
 
