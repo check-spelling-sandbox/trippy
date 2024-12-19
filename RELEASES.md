@@ -1000,7 +1000,7 @@ more. Additionally, this release includes several important bug fixes along with
 
 ### Tracing Flows
 
-#### Flow Id
+#### Flow ID
 
 A tracing flow represents the sequence of hosts traversed from the source to the target. Trippy is now able to identify
 individual flows within a trace and assign each a unique flow id. Trippy calculate a flow id for each round of tracing,
