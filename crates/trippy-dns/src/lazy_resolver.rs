@@ -315,7 +315,7 @@ mod inner {
 
             // If this is a newly added `DnsEntry` then send it to the channel to be resolved in the
             // background.  We do this after the above to ensure we aren't holding the
-            // lock on the cache, which is usd by the resolver and so would deadlock.
+            // lock on the cache, which is used by the resolver and so would deadlock.
             if enqueue {
                 if self
                     .tx
